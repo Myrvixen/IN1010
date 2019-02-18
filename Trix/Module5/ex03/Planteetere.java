@@ -1,0 +1,5 @@
+
+interface Planteetere{
+
+  void beskytt();
+}

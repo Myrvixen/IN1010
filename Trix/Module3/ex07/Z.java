@@ -1,0 +1,4 @@
+
+class Z extends Y{
+  
+}
